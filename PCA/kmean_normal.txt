@@ -1,0 +1,62 @@
+Cluster Statistics:
+Cluster 0: 2 points
+Cluster 1: 2 points
+Cluster 2: 3 points
+Cluster 3: 1 points
+Cluster 4: 1 points
+Cluster 5: 7 points
+Cluster 6: 4 points
+Cluster 7: 2 points
+Cluster 8: 1 points
+Cluster 9: 1 points
+Cluster 10: 3 points
+Cluster 11: 1 points
+Cluster 12: 3 points
+Cluster 13: 3 points
+Cluster 14: 8 points
+Cluster 15: 1 points
+
+Point:
+Point Data Science for Social Good and Public Policy: Examples, Opportunities, and Challenges. : Cluster 11
+Point Neural Compatibility Modeling with Attentive Knowledge Distillation. : Cluster 12
+Point Enhancing Person-Job Fit for Talent Recruitment: An Ability-aware Neural Network Approach. : Cluster 8
+Point A Click Sequence Model for Web Search. : Cluster 14
+Point Understanding and Evaluating User Satisfaction with Music Discovery. : Cluster 14
+Point Identifying Users behind Shared Accounts in Online Streaming Services. : Cluster 14
+Point Predicting User Knowledge Gain in Informational Search Sessions. : Cluster 2
+Point Dynamic Shard Cutoff Prediction for Selective Search. : Cluster 1
+Point Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks. : Cluster 4
+Point Neural Query Performance Prediction using Weak Supervision from Multiple Signals. : Cluster 5
+Point Combined Regression and Tripletwise Learning for Conversion Rate Prediction in Real-Time Bidding Advertising. : Cluster 14
+Point From Greedy Selection to Exploratory Decision-Making: Diverse Ranking with Policy-Value Networks. : Cluster 13
+Point Learning a Deep Listwise Context Model for Ranking Refinement. : Cluster 5
+Point Efficient Exploration of Gradient Space for Online Learning to Rank. : Cluster 15
+Point Selective Gradient Boosting for Effective Learning to Rank. : Cluster 5
+Point Explainable Recommendation via Multi-Task Learning in Opinionated Text Data. : Cluster 6
+Point Sentiment Analysis of Peer Review Texts for Scholarly Papers. : Cluster 0
+Point Mention Recommendation for Multimodal Microblog with Cross-attention Memory Network. : Cluster 6
+Point Learning Geo-Social User Topical Profiles with Bayesian Hierarchical User Factorization. : Cluster 14
+Point Target Apps Selection: Towards a Unified Search Framework for Mobile Devices. : Cluster 2
+Point Dialogue Act Recognition via CRF-Attentive Structured Network. : Cluster 10
+Point Conversational Recommender System. : Cluster 14
+Point Response Ranking with Deep Matching Networks and External Knowledge in Information-seeking Conversation Systems. : Cluster 12
+Point Identifying Sub-events and Summarizing Disaster-Related Information from Microblogs. : Cluster 12
+Point The Rise of Guardians: Fact-checking URL Recommendation to Combat Fake News. : Cluster 14
+Point A Personal Privacy Preserving Framework: I Let You Know Who Can See What. : Cluster 7
+Point SynTF: Synthetic and Differentially Private Term Frequency Vectors for Privacy-Preserving Text Mining. : Cluster 13
+Point Privacy-aware Ranking with Tree Ensembles on the Cloud. : Cluster 7
+Point Multihop Attention Networks for Question Answer Matching. : Cluster 10
+Point Ranking Documents by Answer-Passage Quality. : Cluster 3
+Point Characterizing and Supporting Question Answering in Human-to-Human Communication. : Cluster 10
+Point Turning Clicks into Purchases: Revenue Optimization for Product Search in E-Commerce. : Cluster 1
+Point Modeling Diverse Relevance Patterns in Ad-hoc Retrieval. : Cluster 5
+Point Unbiased Learning to Rank with Unbiased Propensity Estimation. : Cluster 5
+Point Ranking Robustness Under Adversarial Document Manipulations. : Cluster 5
+Point Equity of Attention: Amortizing Individual Fairness in Rankings. : Cluster 5
+Point Should I Follow the Crowd?: A Probabilistic Analysis of the Effectiveness of Popularity in Recommender Systems. : Cluster 6
+Point Constructing an Interaction Behavior Model for Web Image Search. : Cluster 2
+Point Between Clicks and Satisfaction: Study on Multi-Phase User Preferences and Satisfaction for Online News Reading. : Cluster 14
+Point The Effects of Manipulating Task Determinability on Search Behaviors and Outcomes. : Cluster 6
+Point Seed-driven Document Ranking for Systematic Reviews in Evidence-Based Medicine. : Cluster 13
+Point A Dataset and an Examination of Identifying Passages for Due Diligence. : Cluster 9
+Point Generating Better Queries for Systematic Reviews. : Cluster 0

@@ -1,0 +1,62 @@
+Cluster Statistics:
+Cluster 0: 2 points
+Cluster 1: 1 points
+Cluster 2: 1 points
+Cluster 3: 3 points
+Cluster 4: 3 points
+Cluster 5: 2 points
+Cluster 6: 3 points
+Cluster 7: 5 points
+Cluster 8: 1 points
+Cluster 9: 2 points
+Cluster 10: 4 points
+Cluster 11: 3 points
+Cluster 12: 3 points
+Cluster 13: 3 points
+Cluster 14: 2 points
+Cluster 15: 5 points
+
+Point Assignments:
+Point 0 belongs to Cluster 7
+Point 1 belongs to Cluster 11
+Point 2 belongs to Cluster 8
+Point 3 belongs to Cluster 15
+Point 4 belongs to Cluster 10
+Point 5 belongs to Cluster 10
+Point 6 belongs to Cluster 1
+Point 7 belongs to Cluster 2
+Point 8 belongs to Cluster 11
+Point 9 belongs to Cluster 4
+Point 10 belongs to Cluster 15
+Point 11 belongs to Cluster 7
+Point 12 belongs to Cluster 7
+Point 13 belongs to Cluster 3
+Point 14 belongs to Cluster 4
+Point 15 belongs to Cluster 5
+Point 16 belongs to Cluster 0
+Point 17 belongs to Cluster 6
+Point 18 belongs to Cluster 6
+Point 19 belongs to Cluster 4
+Point 20 belongs to Cluster 5
+Point 21 belongs to Cluster 3
+Point 22 belongs to Cluster 11
+Point 23 belongs to Cluster 7
+Point 24 belongs to Cluster 0
+Point 25 belongs to Cluster 6
+Point 26 belongs to Cluster 9
+Point 27 belongs to Cluster 13
+Point 28 belongs to Cluster 15
+Point 29 belongs to Cluster 12
+Point 30 belongs to Cluster 10
+Point 31 belongs to Cluster 3
+Point 32 belongs to Cluster 12
+Point 33 belongs to Cluster 15
+Point 34 belongs to Cluster 13
+Point 35 belongs to Cluster 7
+Point 36 belongs to Cluster 9
+Point 37 belongs to Cluster 15
+Point 38 belongs to Cluster 10
+Point 39 belongs to Cluster 13
+Point 40 belongs to Cluster 14
+Point 41 belongs to Cluster 12
+Point 42 belongs to Cluster 14
